@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/rohanmazumdar/Desktop/WorkArea/UDEMY-Coding/reactNativeWorkspace/auth/node_modules/react-native/React/Modules/RCTDevLoadingView.h
